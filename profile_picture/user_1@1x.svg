@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="32" height="32" viewBox="0 0 500 500" xml:space="preserve">
+<desc>Created with Fabric.js 4.6.0</desc>
+<defs>
+</defs>
+<g transform="matrix(2.85 0 0 2.85 250 250)" id="0c21J5zDCh7pHr685oELs"  >
+<path style="stroke: rgb(143,51,95); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(49,168,247); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(0, 0)" d="M -87.7193 -87.7193 L 87.7193 -87.7193 L 87.7193 87.7193 L -87.7193 87.7193 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(11.33 0 0 11.33 250 750)" id="64X2znRxn2DjMYPNQ0ubN"  >
+<path style="stroke: rgb(233,232,4); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(0, 0)" d="M 0 -35.31073 C 19.49153 -35.31073 35.31073 -19.49152 35.31073 0 C 35.31073 19.49153 19.49152 35.31073 0 35.31073 C -19.49153 35.31073 -35.31073 19.49152 -35.31073 0 C -35.31073 -19.49153 -19.49152 -35.31073 0 -35.31073 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1.42 0 0 1.43 250 175)" id="5Oo8OINHiCoTus1TGAHdJ"  >
+<path style="stroke: rgb(164,195,49); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(0, 0)" d="M 0 -87.7193 C 48.42105 -87.7193 87.7193 -48.42105 87.7193 0 C 87.7193 48.42105 48.42105 87.7193 0 87.7193 C -48.42105 87.7193 -87.7193 48.42105 -87.7193 0 C -87.7193 -48.42105 -48.42105 -87.7193 0 -87.7193 z" stroke-linecap="round" />
+</g>
+</svg>
